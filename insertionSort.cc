@@ -1,3 +1,8 @@
+/*
+Author : peri <a*****a@*****.edu
+Date : Jan 2014
+*/
+
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
