@@ -1,0 +1,530 @@
+** Generated for: hspiceD 
+** Generated on: Aug 17 00:24:49 2012 
+** Design library name: FERN1 
+** Design cell name: 64cell 
+** Design view name: schematic 
+.GLOBAL vdd! 
+ 
+ 
+.TEMP 25.0 
+.OPTION 
++ ARTIST=2 
++ INGOLD=2 
++ PARHIER=LOCAL 
++ PSF=2 
++ POST 
+** Library name: FERN1 
+** Cell name: 64cell 
+** View name: schematic 
+m247 cell52 cell_bar52 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m246 cell_bar52 cell52 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m245 cell51 cell_bar51 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m244 cell_bar51 cell51 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m243 cell50 cell_bar50 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m242 cell_bar50 cell50 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m241 cell49 cell_bar49 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m240 cell_bar49 cell49 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m231 cell56 cell_bar56 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m230 cell_bar56 cell56 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m229 cell55 cell_bar55 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m228 cell_bar55 cell55 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m227 cell54 cell_bar54 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m226 cell_bar54 cell54 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m225 cell53 cell_bar53 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m224 cell_bar53 cell53 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m215 cell60 cell_bar60 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 m214 cell_bar60 cell60 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m213 cell59 cell_bar59 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m212 cell_bar59 cell59 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m211 cell58 cell_bar58 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m210 cell_bar58 cell58 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m209 cell57 cell_bar57 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m208 cell_bar57 cell57 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m199 cell64 cell_bar64 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m198 cell_bar64 cell64 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m197 cell63 cell_bar63 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m196 cell_bar63 cell63 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m195 cell62 cell_bar62 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m194 cell_bar62 cell62 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m193 cell61 cell_bar61 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m192 cell_bar61 cell61 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m191 cell_bar45 cell45 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m190 cell45 cell_bar45 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m189 cell_bar46 cell46 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m188 cell46 cell_bar46 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m187 cell_bar47 cell47 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m186 cell47 cell_bar47 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m185 cell_bar48 cell48 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m184 cell48 cell_bar48 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m175 cell_bar41 cell41 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m174 cell41 cell_bar41 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m173 cell_bar42 cell42 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 m172 cell42 cell_bar42 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m171 cell_bar43 cell43 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m170 cell43 cell_bar43 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m169 cell_bar44 cell44 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m168 cell44 cell_bar44 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m159 cell_bar37 cell37 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m158 cell37 cell_bar37 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m157 cell_bar38 cell38 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m156 cell38 cell_bar38 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m155 cell_bar39 cell39 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m154 cell39 cell_bar39 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m153 cell_bar40 cell40 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m152 cell40 cell_bar40 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m143 cell_bar33 cell33 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m142 cell33 cell_bar33 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m141 cell_bar34 cell34 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m140 cell34 cell_bar34 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m139 cell_bar35 cell35 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m138 cell35 cell_bar35 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m137 cell_bar36 cell36 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m136 cell36 cell_bar36 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m119 cell20 cell_bar20 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m118 cell_bar20 cell20 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m117 cell19 cell_bar19 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m116 cell_bar19 cell19 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m115 cell18 cell_bar18 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 m114 cell_bar18 cell18 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m113 cell17 cell_bar17 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m112 cell_bar17 cell17 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m103 cell24 cell_bar24 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m102 cell_bar24 cell24 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m101 cell23 cell_bar23 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m100 cell_bar23 cell23 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m99 cell22 cell_bar22 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m98 cell_bar22 cell22 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m97 cell21 cell_bar21 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m96 cell_bar21 cell21 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m87 cell28 cell_bar28 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m86 cell_bar28 cell28 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m85 cell27 cell_bar27 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m84 cell_bar27 cell27 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m83 cell26 cell_bar26 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m82 cell_bar26 cell26 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m81 cell25 cell_bar25 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m80 cell_bar25 cell25 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m71 cell32 cell_bar32 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m70 cell_bar32 cell32 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m69 cell31 cell_bar31 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m68 cell_bar31 cell31 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m67 cell30 cell_bar30 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m66 cell_bar30 cell30 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m65 cell29 cell_bar29 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 m64 cell_bar29 cell29 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m31 cell8 cell_bar8 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m39 cell16 cell_bar16 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m15 cell4 cell_bar4 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m55 cell12 cell_bar12 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m28 cell_bar8 cell8 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m38 cell_bar16 cell16 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m12 cell_bar4 cell4 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m54 cell_bar12 cell12 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m27 cell7 cell_bar7 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m37 cell15 cell_bar15 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m11 cell3 cell_bar3 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m53 cell11 cell_bar11 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m24 cell_bar7 cell7 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m36 cell_bar15 cell15 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m8 cell_bar3 cell3 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m52 cell_bar11 cell11 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m23 cell6 cell_bar6 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m35 cell14 cell_bar14 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m7 cell2 cell_bar2 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m51 cell10 cell_bar10 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m20 cell_bar6 cell6 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m34 cell_bar14 cell14 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m4 cell_bar2 cell2 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m50 cell_bar10 cell10 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m19 cell5 cell_bar5 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 m33 cell13 cell_bar13 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m3 cell1 cell_bar1 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m49 cell9 cell_bar9 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m16 cell_bar5 cell5 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m32 cell_bar13 cell13 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m0 cell_bar1 cell1 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m48 cell_bar9 cell9 0 0 NMOS_VTL L=50e-9 DELVTO=‘vtar’ W=90e-9 
+AD=9.45e-15 AS=9.45e-15 PD=300e-9 PS=300e-9 M=1 
+m255 cell52 cell_bar52 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m254 cell_bar52 cell52 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m253 cell51 cell_bar51 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m252 cell_bar51 cell51 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m251 cell50 cell_bar50 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m250 cell_bar50 cell50 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m249 cell49 cell_bar49 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m248 cell_bar49 cell49 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m239 cell56 cell_bar56 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m238 cell_bar56 cell56 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m237 cell55 cell_bar55 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m236 cell_bar55 cell55 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m235 cell54 cell_bar54 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m234 cell_bar54 cell54 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m233 cell53 cell_bar53 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m232 cell_bar53 cell53 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m223 cell60 cell_bar60 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m222 cell_bar60 cell60 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m221 cell59 cell_bar59 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 m220 cell_bar59 cell59 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m219 cell58 cell_bar58 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m218 cell_bar58 cell58 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m217 cell57 cell_bar57 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m216 cell_bar57 cell57 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m207 cell64 cell_bar64 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m206 cell_bar64 cell64 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m205 cell63 cell_bar63 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m204 cell_bar63 cell63 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m203 cell62 cell_bar62 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m202 cell_bar62 cell62 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m201 cell61 cell_bar61 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m200 cell_bar61 cell61 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m183 cell_bar45 cell45 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m182 cell45 cell_bar45 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m181 cell_bar46 cell46 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m180 cell46 cell_bar46 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m179 cell_bar47 cell47 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m178 cell47 cell_bar47 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m177 cell_bar48 cell48 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m176 cell48 cell_bar48 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m167 cell_bar41 cell41 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m166 cell41 cell_bar41 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m165 cell_bar42 cell42 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m164 cell42 cell_bar42 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m163 cell_bar43 cell43 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 m162 cell43 cell_bar43 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m161 cell_bar44 cell44 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m160 cell44 cell_bar44 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m151 cell_bar37 cell37 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m150 cell37 cell_bar37 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m149 cell_bar38 cell38 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m148 cell38 cell_bar38 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m147 cell_bar39 cell39 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m146 cell39 cell_bar39 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m145 cell_bar40 cell40 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m144 cell40 cell_bar40 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m135 cell_bar33 cell33 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m134 cell33 cell_bar33 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m133 cell_bar34 cell34 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m132 cell34 cell_bar34 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m131 cell_bar35 cell35 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m130 cell35 cell_bar35 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m129 cell_bar36 cell36 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m128 cell36 cell_bar36 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m127 cell20 cell_bar20 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m126 cell_bar20 cell20 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m125 cell19 cell_bar19 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m124 cell_bar19 cell19 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m123 cell18 cell_bar18 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m122 cell_bar18 cell18 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m121 cell17 cell_bar17 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 m120 cell_bar17 cell17 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m111 cell24 cell_bar24 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m110 cell_bar24 cell24 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m109 cell23 cell_bar23 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m108 cell_bar23 cell23 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m107 cell22 cell_bar22 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m106 cell_bar22 cell22 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m105 cell21 cell_bar21 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m104 cell_bar21 cell21 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ 
+W=180e-9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m95 cell28 cell_bar28 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m94 cell_bar28 cell28 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m93 cell27 cell_bar27 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m92 cell_bar27 cell27 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m91 cell26 cell_bar26 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m90 cell_bar26 cell26 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m89 cell25 cell_bar25 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m88 cell_bar25 cell25 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m79 cell32 cell_bar32 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m78 cell_bar32 cell32 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m77 cell31 cell_bar31 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m76 cell_bar31 cell31 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m75 cell30 cell_bar30 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m74 cell_bar30 cell30 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m73 cell29 cell_bar29 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m72 cell_bar29 cell29 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m30 cell8 cell_bar8 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 m47 cell16 cell_bar16 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m14 cell4 cell_bar4 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m63 cell12 cell_bar12 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m29 cell_bar8 cell8 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m46 cell_bar16 cell16 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m13 cell_bar4 cell4 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m62 cell_bar12 cell12 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m26 cell7 cell_bar7 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m45 cell15 cell_bar15 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m10 cell3 cell_bar3 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m61 cell11 cell_bar11 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m25 cell_bar7 cell7 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m44 cell_bar15 cell15 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m9 cell_bar3 cell3 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m60 cell_bar11 cell11 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m22 cell6 cell_bar6 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m43 cell14 cell_bar14 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m6 cell2 cell_bar2 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m59 cell10 cell_bar10 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m21 cell_bar6 cell6 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m42 cell_bar14 cell14 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m5 cell_bar2 cell2 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m58 cell_bar10 cell10 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m18 cell5 cell_bar5 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m41 cell13 cell_bar13 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m2 cell1 cell_bar1 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 m57 cell9 cell_bar9 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m17 cell_bar5 cell5 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m40 cell_bar13 cell13 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-
+9 AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m1 cell_bar1 cell1 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+m56 cell_bar9 cell9 vdd! vdd! PMOS_VTL L=50e-9 DELVTO=‘vtar’ W=180e-9 
+AD=18.9e-15 AS=18.9e-15 PD=390e-9 PS=390e-9 M=1 
+ 
+v0 vdd! 0 PULSE 0 vx 0 10e-12 10e-12 400e-12 1000e-12 
+.param vx=AGAUSS(1.1,0.11,3) 
+.param vtar=AGAUSS(0,0.03,3) %change by users% 
+.tran 1p 300p SWEEP MONTE=50 %change by users% 
+.include '$PDK_DIR/ncsu_basekit/models/hspice/hspice_nom.include' 
+.END 
+ 
+ 
+ 
