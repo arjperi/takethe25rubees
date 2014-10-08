@@ -74,6 +74,18 @@ if has("gui_running")
     set guioptions+=e
     set t_Co=256
     set guitablabel=%M\ %t
+    
+        if has("gui_gtk2")
+                set guifont=Courier\ New\ 11
+        elseif has("gui_photon")
+                set guifont=Courier\ New:s11
+        elseif has("gui_kde")
+                set guifont=Courier\ New/11/-1/5/50/0/0/0/1/0
+        elseif has("x11")
+                set guifont=-*-courier-medium-r-normal-*-*-180-*-*-m-*-*
+        else
+                set guifont=Courier_New:h11:cDEFAULT
+        endif
 endif
 
 " Set utf8 as standard encoding and en_US as the standard language
@@ -89,22 +101,8 @@ set wrap "Wrap lines
 " Always show the status line
 set laststatus=2
 
-"Ctags
-"set tags+=~/.vim/tags/cpp
-
-" OmniCppComplete
-" let OmniCpp_NamespaceSearch = 1
-" let OmniCpp_GlobalScopeSearch = 1
-" let OmniCpp_ShowAccess = 1
-" let OmniCpp_ShowPrototypeInAbbr = 1 " show function parameters
-" let OmniCpp_MayCompleteDot = 1 " autocomplete after .
-" let OmniCpp_MayCompleteArrow = 1 " autocomplete after ->
-" let OmniCpp_MayCompleteScope = 1 " autocomplete after ::
-" let OmniCpp_DefaultNamespaces = ["std", "_GLIBCXX_STD"]
- " automatically open and close the popup menu / preview window
-" au CursorMovedI,InsertLeave * if pumvisible() == 0|silent! pclose|endif
-" set completeopt=menuone,menu,longest,preview
-
-
  "setting filetype
  filetype on
+ 
+ "set linenumber
+ set nu
